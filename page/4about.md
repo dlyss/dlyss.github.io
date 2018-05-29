@@ -19,6 +19,3 @@ type: page
 * 2004.7-2006.7 北京大学软件学院
 
 
-## Comments
-
-{% include comments.html %}
